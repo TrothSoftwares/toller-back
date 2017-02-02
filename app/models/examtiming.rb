@@ -1,0 +1,2 @@
+class Examtiming < ApplicationRecord
+end

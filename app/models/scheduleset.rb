@@ -1,0 +1,2 @@
+class Scheduleset < ApplicationRecord
+end

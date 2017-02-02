@@ -1,0 +1,2 @@
+class Examscheduleset < ApplicationRecord
+end

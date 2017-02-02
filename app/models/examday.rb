@@ -1,0 +1,2 @@
+class Examday < ApplicationRecord
+end
